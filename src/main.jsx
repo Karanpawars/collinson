@@ -7,6 +7,7 @@ import "../node_modules/bootstrap-icons/font/bootstrap-icons.scss";
 import "./assets/scss/main.scss";
 import "./assets/scss/header.scss";
 import "./assets/scss/asidebar.scss";
+import "./assets/scss/footer.scss";
 import "./assets/js/script.js";
 
 ReactDOM.createRoot(document.getElementById("root")).render(

@@ -8,6 +8,7 @@ export default function DashboardLayout() {
     <div>
       <Header />
       <Asidebar/>
+      <Footer />
     </div>
   );
 }
