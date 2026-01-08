@@ -1,9 +1,8 @@
-function App() {
+import React from "react";
+import DashboardLayout from "../src/layouts/DashboardHome";
+
+export default function App() {
   return (
-    <div>
-      <h1>Hello React 🚀</h1>
-    </div>
+    <DashboardLayout></DashboardLayout>
   );
 }
-
-export default App;
